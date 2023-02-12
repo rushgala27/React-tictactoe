@@ -7,11 +7,6 @@
   "parserOptions": {
     "requireConfigFile": false
   },
-  "settings": {
-    "react": {
-      "version": "detect"
-    }
-  },
   "rules": {
     "no-plusplus": [0],
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
